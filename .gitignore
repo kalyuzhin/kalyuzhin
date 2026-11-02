@@ -1,0 +1,8 @@
+.DS_Store
+venv/
+.idea/
+.vscode/
+bin/
+*.env
+*.log
+package-lock.json
