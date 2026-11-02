@@ -6,3 +6,5 @@ bin/
 *.env
 *.log
 package-lock.json
+service.json
+node_modules/
